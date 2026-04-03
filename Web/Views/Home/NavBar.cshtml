@@ -1,0 +1,43 @@
+﻿@model AeroMexic.Web.Models.SearchFlightModel
+
+@section Style {
+    <link type="stylesheet" href="~/css/Home/NavBar.css" />
+}
+
+<div>
+    <header>
+        <section>
+            <h2>AeroMexic</h2>
+        </section>
+    </header>
+
+    <div>
+        <form>
+            <div class="search">
+                @Html.TextBoxFor(x => x.Id , new { @placeholder="Search flight..." })
+            </div>
+        </form>
+    </div>
+
+    <div>
+        <section>
+            <ul>
+                <li>
+                    <a href="#">Nosotros</a>
+                </li>
+                <li>
+                    <a href="#">Colaboradores</a>
+                </li>
+                <li>
+                    <a href="#">Text</a>
+                </li>
+                <li>
+                    <a href="#">Text</a>
+                </li>
+                <li>
+                    <a>Iniciar sesion</a>
+                </li>
+            </ul>
+        </section>
+    </div>
+</div>

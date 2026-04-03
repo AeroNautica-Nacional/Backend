@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AeroMexic.Application/1.0.0": {
+        "dependencies": {
+          "AeroMexic.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AeroMexic.Application.dll": {}
+        }
+      },
+      "AeroMexic.Domain/1.0.0": {
+        "runtime": {
+          "AeroMexic.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AeroMexic.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AeroMexic.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

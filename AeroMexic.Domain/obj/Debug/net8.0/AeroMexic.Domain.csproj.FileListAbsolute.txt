@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\bin\Debug\net8.0\AeroMexic.Domain.deps.json
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\bin\Debug\net8.0\AeroMexic.Domain.dll
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\bin\Debug\net8.0\AeroMexic.Domain.pdb
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\obj\Debug\net8.0\AeroMexic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\obj\Debug\net8.0\AeroMexic.Domain.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\obj\Debug\net8.0\AeroMexic.Domain.AssemblyInfo.cs
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\obj\Debug\net8.0\AeroMexic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\obj\Debug\net8.0\AeroMexic.Domain.dll
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\obj\Debug\net8.0\refint\AeroMexic.Domain.dll
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\obj\Debug\net8.0\AeroMexic.Domain.pdb
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Domain\obj\Debug\net8.0\ref\AeroMexic.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\bin\Debug\net8.0\AeroMexic.Application.deps.json
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\bin\Debug\net8.0\AeroMexic.Application.dll
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\bin\Debug\net8.0\AeroMexic.Application.pdb
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\bin\Debug\net8.0\AeroMexic.Domain.dll
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\bin\Debug\net8.0\AeroMexic.Domain.pdb
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\AeroMexic.Application.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\AeroMexic.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\AeroMexic.Application.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\AeroMexic.Application.AssemblyInfo.cs
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\AeroMexic.Application.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\AeroMexi.6E1234F7.Up2Date
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\AeroMexic.Application.dll
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\refint\AeroMexic.Application.dll
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\AeroMexic.Application.pdb
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\ref\AeroMexic.Application.dll
