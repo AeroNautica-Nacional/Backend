@@ -2,11 +2,11 @@
 
 namespace AeroMexic.Domain.Entities
 {
-    public partial class RoleUser : BaseEntity
+    public partial class Permission : BaseEntity
     {
         public int Id { get; set; }
         public string Name { get; set; }
 
-        public ICollection<RolePermission> RolePermissions { get; set; } = new List<RolePermission>();
+        public ICollection<RolePermission> RolePermissions { get; set; }
     }
 }

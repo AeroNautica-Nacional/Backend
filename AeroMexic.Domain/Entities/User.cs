@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AeroMexic.Domain.Common;
 
 namespace AeroMexic.Domain.Entities
 {
-    public class User
+    public class User : BaseEntity
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -14,12 +10,8 @@ namespace AeroMexic.Domain.Entities
         public string Email { get; set; }
         public string Password { get; set; }
         public int Rule_Id { get; set; }
-        public DateTime DateCreate { get; set; }
-        public string CreateFor { get; set; }
-        public DateTime DateUpdate { get; set; }
-        public string UpdateFor { get; set; }
-        public bool Active { get; set; }
-        public DateTime DateDelete { get; set; }
-        public string DeleteFor { get; set; }
+
+        // Relación
+        public ICollection<RoleUser> RoleUsers { get; set; } = new List<RoleUser>();
     }
 }
