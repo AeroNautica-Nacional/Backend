@@ -13,3 +13,4 @@ C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Applicat
 C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\refint\AeroMexic.Application.dll
 C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\AeroMexic.Application.pdb
 C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\ref\AeroMexic.Application.dll
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Application\obj\Debug\net8.0\AeroMexic.Application.sourcelink.json

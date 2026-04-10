@@ -15,3 +15,6 @@ C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Infrasct
 C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Infrasctructure\obj\Debug\net8.0\refint\AeroMexic.Infrasctructure.dll
 C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Infrasctructure\obj\Debug\net8.0\AeroMexic.Infrasctructure.pdb
 C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Infrasctructure\obj\Debug\net8.0\ref\AeroMexic.Infrasctructure.dll
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Infrasctructure\obj\Debug\net8.0\AeroMexic.Infrasctructure.sourcelink.json
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Infrasctructure\bin\Debug\net8.0\AeroMexic.Infrasctructure.runtimeconfig.json
+C:\Users\victo\source\repos\CleanArchitecture-Udemy\AeroMexic\AeroMexic.Infrasctructure\obj\Debug\net8.0\AeroMexic.Infrasctructure.genruntimeconfig.cache
