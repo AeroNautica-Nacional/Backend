@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\source\\repos\\CleanArchitecture-Udemy\\AeroMexic\\AeroMexic.Application\\AeroMexic.Application.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\source\\repos\\Backend\\AeroMexic.Application\\AeroMexic.Application.csproj",
       "projectName": "AeroMexic.Application",
-      "projectPath": "C:\\Users\\victo\\source\\repos\\CleanArchitecture-Udemy\\AeroMexic\\AeroMexic.Application\\AeroMexic.Application.csproj",
+      "projectPath": "C:\\Users\\victo\\source\\repos\\Backend\\AeroMexic.Application\\AeroMexic.Application.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\source\\repos\\CleanArchitecture-Udemy\\AeroMexic\\AeroMexic.Application\\obj\\",
+      "outputPath": "C:\\Users\\victo\\source\\repos\\Backend\\AeroMexic.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\victo\\source\\repos\\CleanArchitecture-Udemy\\AeroMexic\\AeroMexic.Domain\\AeroMexic.Domain.csproj": {
-              "projectPath": "C:\\Users\\victo\\source\\repos\\CleanArchitecture-Udemy\\AeroMexic\\AeroMexic.Domain\\AeroMexic.Domain.csproj"
+            "C:\\Users\\victo\\source\\repos\\Backend\\AeroMexic.Domain\\AeroMexic.Domain.csproj": {
+              "projectPath": "C:\\Users\\victo\\source\\repos\\Backend\\AeroMexic.Domain\\AeroMexic.Domain.csproj"
             }
           }
         }
@@ -95,7 +95,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

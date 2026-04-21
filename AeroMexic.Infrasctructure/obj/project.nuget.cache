@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oXBeiIPObAE=",
+  "dgSpecHash": "L0xRJxWeo4M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\source\\repos\\CleanArchitecture-Udemy\\AeroMexic\\AeroMexic.Infrasctructure\\AeroMexic.Infrasctructure.csproj",
+  "projectFilePath": "C:\\Users\\victo\\source\\repos\\Backend\\AeroMexic.Infrasctructure\\AeroMexic.Infrasctructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ybMNJbtyL6k=",
+  "dgSpecHash": "mz9CuRr7i+Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\source\\repos\\CleanArchitecture-Udemy\\AeroMexic\\AeroMexic.Domain\\AeroMexic.Domain.csproj",
+  "projectFilePath": "C:\\Users\\victo\\source\\repos\\Backend\\AeroMexic.Domain\\AeroMexic.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
