@@ -10,6 +10,14 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddMediatR(cgf =>
+{
+    cfg.RegisterServicesFromAssembly(typeof(AeroMexic.Application.AssemblyReference).Assembly);
+    cfg.AddOpenBehavior(typeof(AeroMexic.Application.Behaviors.ValidationBehavior<,>));
+    cfg.AddOpenBehavior(typeof(AeroMexic.Application.Behaviors.LoggingBehavior<,>));
+
+});
+
 builder.Services.AddDbContext<AeronauticaNacionalDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
