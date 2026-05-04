@@ -1,19 +1,12 @@
-﻿using AeroMexic.Domain.Share;
+﻿
 using MediatR;
-using Microsoft.Extensions.Logging;
 
 namespace AeroMexic.Application.Behaviors
 {
-
-    public class LoggingBehavior<TRequest, TResponse>
+    public class ExceptionBehavior<TRequest, TResponse>
         : IPipelineBehavior<TRequest, TResponse>
-        where TRequest : IRequest<TResponse>
-        where TResponse : Result
+        where TRequest : IRequest
     {
-        public LoggingBehavior()
-        {
-        }
-
         public Task<TResponse> Handle(TRequest request, RequestHandlerDelegate<TResponse> next, CancellationToken cancellationToken)
         {
             throw new NotImplementedException();

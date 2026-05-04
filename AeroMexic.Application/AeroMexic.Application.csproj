@@ -9,15 +9,12 @@
   <ItemGroup>
     <Compile Remove="InputPort\**" />
     <Compile Remove="Interactors\**" />
-    <Compile Remove="NewFolder\**" />
     <Compile Remove="OutputPort\**" />
     <EmbeddedResource Remove="InputPort\**" />
     <EmbeddedResource Remove="Interactors\**" />
-    <EmbeddedResource Remove="NewFolder\**" />
     <EmbeddedResource Remove="OutputPort\**" />
     <None Remove="InputPort\**" />
     <None Remove="Interactors\**" />
-    <None Remove="NewFolder\**" />
     <None Remove="OutputPort\**" />
   </ItemGroup>
 

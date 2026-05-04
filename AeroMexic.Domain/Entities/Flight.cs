@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AeroMexic.Domain.Common;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AeroMexic.Domain.Entities
 {
-    public partial class Flight
+    public partial class Flight : BaseEntity
     {
         public int Id { get; set; }
         public string FlightNumber { get; set; } = string.Empty;
