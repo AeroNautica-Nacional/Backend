@@ -7,13 +7,29 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="InputPort\**" />
+    <Compile Remove="Interactors\**" />
+    <Compile Remove="OutputPort\**" />
+    <EmbeddedResource Remove="InputPort\**" />
+    <EmbeddedResource Remove="Interactors\**" />
+    <EmbeddedResource Remove="OutputPort\**" />
+    <None Remove="InputPort\**" />
+    <None Remove="Interactors\**" />
+    <None Remove="OutputPort\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\AeroMexic.Domain\AeroMexic.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="InputPort\" />
-    <Folder Include="Interactors\" />
-    <Folder Include="OutputPort\" />
+    <PackageReference Include="FluentValidation" Version="12.1.1" />
+    <PackageReference Include="MediatR" Version="14.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Authentication\" />
+    <Folder Include="Interface\" />
   </ItemGroup>
 
 </Project>

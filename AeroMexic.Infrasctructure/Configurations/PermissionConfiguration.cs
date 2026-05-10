@@ -8,11 +8,11 @@ namespace AeroMexic.Infrasctructure.Configurations
     {
         public void Configure(EntityTypeBuilder<Permission> builder)
         {
-            builder.ToTable("Permission");
+            builder.ToTable("permission");
             builder.HasKey(p => p.Id);
 
             builder.Property(p => p.Name)
-                .HasColumnName("Name")
+                .HasColumnName("name")
                 .HasMaxLength(150)
                 .IsRequired();
         }

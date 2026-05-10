@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AeroMexic.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43bcc5a987c31488ab208fe4d0db81d9f03cd2d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1b108ea8c5f0afbb8ae5055f91065fa64cc64a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AeroMexic.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AeroMexic.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

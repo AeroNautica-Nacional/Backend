@@ -14,42 +14,42 @@ namespace AeroMexic.Infrasctructure.Configurations
         public void Configure(EntityTypeBuilder<User> builder)
         {
             // Name my table
-            builder.ToTable("User");
+            builder.ToTable("user");
 
             // Primary key
             builder.HasKey(u => u.Id);
 
             builder.Property(u => u.Name)
-                .HasColumnName("Name")
+                .HasColumnName("name")
                 .HasMaxLength(150)
                 .IsRequired();
 
             builder.Property(u => u.MiddleName)
-                .HasColumnName("LastName")
+                .HasColumnName("middle_name")
                 .HasMaxLength(150);
 
             builder.Property(u => u.PaternalLastName)
-                .HasColumnName("PaternalLastName")
+                .HasColumnName("paternal_last_name")
                 .HasMaxLength(150)
                 .IsRequired();
 
             builder.Property(u => u.MaternalLastName)
-                .HasColumnName("MaternalLastName")
+                .HasColumnName("maternal_last_name")
                 .HasMaxLength(150)
                 .IsRequired();
 
             builder.Property(u => u.Email)
-                .HasColumnName("Email")
+                .HasColumnName("email")
                 .HasMaxLength(255)
                 .IsRequired();
 
             builder.Property(u => u.Password)
-                .HasColumnName("Password")
+                .HasColumnName("password")
                 .HasMaxLength(255)
                 .IsRequired();
 
             builder.Property(u => u.Role_Id)
-                .HasColumnName("Role_Id")
+                .HasColumnName("role_id")
                 .IsRequired();
 
             // Index unique in Email

@@ -10,11 +10,11 @@ namespace AeroMexic.Infrasctructure.Configurations
     {
         public void Configure(EntityTypeBuilder<RoleUser> builder)
         {
-            builder.ToTable("RoleUser");
+            builder.ToTable("role_user");
             builder.HasKey(r => r.Id);
 
             builder.Property(r => r.Name)
-                .HasColumnName("Name")
+                .HasColumnName("name")
                 .HasMaxLength(150)
                 .IsRequired();
         }

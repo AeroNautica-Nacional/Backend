@@ -8,7 +8,7 @@ namespace AeroMexic.Infrasctructure.Configurations
     {
         public void Configure(EntityTypeBuilder<RolePermission> builder)
         {
-            builder.ToTable("RolePermission");
+            builder.ToTable("role_permission");
             builder.HasKey(rp => rp.Id);
 
             builder.Property(rp => rp.Role_Id)
