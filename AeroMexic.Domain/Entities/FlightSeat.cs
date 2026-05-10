@@ -1,8 +1,8 @@
-﻿
+﻿using AeroMexic.Domain.Common;
 
 namespace AeroMexic.Domain.Entities
 {
-    public class FlightSeat
+    public class FlightSeat : BaseEntity
     {
         public int Id { get; set; }
         public string SeatNumber { get; set; } = string.Empty;

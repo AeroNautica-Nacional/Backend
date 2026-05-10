@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AeroMexic.Application.DTOs
 {
-    public partial class UserDTO
+    public class ClientDto
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;

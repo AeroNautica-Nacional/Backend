@@ -26,7 +26,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="UseCase\" />
+    <Folder Include="Authentication\Jwt\" />
+    <Folder Include="Authentication\RefreshTonkens\" />
+    <Folder Include="Authentication\Password\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
